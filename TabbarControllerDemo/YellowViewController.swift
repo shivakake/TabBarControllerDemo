@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  YellowViewController.swift
 //  TabbarControllerDemo
 //
 //  Created by Kumaran on 02/08/23.
@@ -7,13 +7,9 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class YellowViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
-
